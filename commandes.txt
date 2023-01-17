@@ -1,0 +1,4 @@
+Pour récupérer le code de la branche main : 
+
+ouvrir un nouveau terminal et écrire : git pull origin main
+
